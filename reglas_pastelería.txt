@@ -3,3 +3,5 @@
 ejecutar regla_1: Convertir los campos vacíos ('') en 'sin_dato'
 ejecutar regla_2: Eliminar pedidos duplicados por número de orden
 ejecutar regla_3: Estandarizar nombres de clientes (primera letra en mayúscula)
+ejecutar regla_4: Validar que el total del pedido sea mayor a 0
+ejecutar regla_5: Asegurar que cada pedido tenga al menos un producto
