@@ -1,0 +1,5 @@
+// sistema_pedidos_dona_rosa
+
+ejecutar regla_1: Convertir los campos vacíos ('') en 'sin_dato'
+ejecutar regla_2: Eliminar pedidos duplicados por número de orden
+ejecutar regla_3: Estandarizar nombres de clientes (primera letra en mayúscula)
